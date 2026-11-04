@@ -2,7 +2,7 @@
 
 Regression models that forecast the water level at Roompot Buiten five minutes ahead, just before high tide, to support the decision to close the barrier.
 
-**TU/e · Regression Models and Applications (2MBS50) · April 2025 - July 2025 · Grade 9.0/10**
+**TU/e · Regression Models and Applications (2MBS50) · April - July 2025 · Grade 9.0/10**
 
 <!-- REPORT_LINK -->
 
